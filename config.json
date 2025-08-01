@@ -1,0 +1,49 @@
+{
+  "bot": {
+    "prefix": "!",
+    "embedColor": "#130F59",
+    "embedFooter": "Moon Shop Bot"
+    },
+  "tickets": {
+    "enabled": true,
+    "categoryId": "1400481544338014299",
+    "supportRoleId": "1390842311046336587",
+    "ticketMessage": "🎫 **Système de Tickets Moon Shop**\n\nCliquez sur le bouton ci-dessous pour ouvrir un ticket et commander nos services !",
+    "embedColor": "#FFD700",
+    "embedTitle": "🎫 Support Moon Shop",
+    "embedDescription": "Ouvrez un ticket pour commander nos services premium"
+  },
+  "shop": {
+    "categories": [
+      {
+        "name": "🎮 Accounts Gaming",
+        "value": "gaming",
+        "description": "Accounts Steam, Epic, Origin, etc."
+      },
+      {
+        "name": "⚡ Nitro Discord",
+        "value": "nitro",
+        "description": "Nitro Classic et Nitro Boost"
+      },
+      {
+        "name": "🚀 Server Boosts",
+        "value": "boosts",
+        "description": "Boosts de serveurs Discord"
+      },
+      {
+        "name": "💳 Panel CC",
+        "value": "cc",
+        "description": "Panel de cartes de crédit"
+      },
+      {
+        "name": "🔧 Services",
+        "value": "services",
+        "description": "Autres services disponibles"
+      }
+    ]
+  },
+  "welcome": {
+    "channelId": "1390842312355090476",
+    "enabled": true
+  }
+}
